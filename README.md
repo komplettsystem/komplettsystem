@@ -1,7 +1,7 @@
 # Karsten Rieke
 
-Product leader in Milan. Over fifteen years in product, ten of them leading product
-managers, at Criteo, LiveIntent and a martech startup I co-founded.
+Product manager in Milan. I've led product teams for ten years, at Criteo, LiveIntent and
+a martech startup I co-founded, and I still do the product work myself.
 
 I build the tools I use to run product work: agent workflows, local retrieval, and
 proofs of concept that test an idea before engineering commits to it. The repositories
