@@ -12,10 +12,11 @@ here are some of those tools, shared for reference.
 | Repository | What it shows |
 |---|---|
 | [local-knowledge-search](https://github.com/komplettsystem/local-knowledge-search) | Giving AI agents the context of your own domain: hybrid search over a markdown knowledge base that answers in milliseconds with no LLM calls, and a relevance verdict built from measured misses. |
+| [agent-patterns](https://github.com/komplettsystem/agent-patterns) | How I work with AI agents: base guidelines for any kind of project, and loops for research, experiments and triage. |
 | [knowledge-base-sync](https://github.com/komplettsystem/knowledge-base-sync) | Keeping that knowledge base current on macOS without granting broad disk access, and refusing to act when a scan looks wrong. |
 
-Other work, including agent workflow patterns and a model for workspaces shared by
-people and agents, is private for now. Happy to walk through it.
+Other work, including a model for workspaces shared by people and agents, is private
+for now. Happy to walk through it.
 
 ## How I work
 
